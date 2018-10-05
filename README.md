@@ -1,3 +1,4 @@
 # COMP206_A2
 assignment2
-q1b finished!
+2018/10/05 q1b finished 
+
